@@ -11,7 +11,7 @@ export default function ChartList() {
         </div> 
             <div className="chartListTop">
                 <div className="chartListTopLeft">    
-                <Chart data={chartListData} datakey="Active" title="월별 유저 증가 수" />
+                <Chart data={chartListData} datakey="Active" title="월별 퀴즈 등록수 조회" />
                </div>    
             </div>            
         </div>
